@@ -22,6 +22,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
+<details>
+<summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgealan&layout=compact)
+
 <!--
 **gutusmao12/gutusmao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
