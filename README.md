@@ -2,6 +2,7 @@
 
 #### Meus contatos:
 <a href="https://www.linkedin.com/in/gustavo-vilela-849156139/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guga.vilelad@gmail.com)
 
 #### Conhecimento nas linguagens:
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
