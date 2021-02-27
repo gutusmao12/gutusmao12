@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou o Gustavo! Bem vindo ao meu GitHub 👋
 
 <!--
 **gutusmao12/gutusmao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
