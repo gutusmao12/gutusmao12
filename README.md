@@ -2,7 +2,7 @@
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:www.linkedin.com/in/gustavo-vilela-849156139/)](https://www.linkedin.com/in/gustavo-vilela-849156139/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964434580&text=Olá!)](https://api.whatsapp.com/send?phone=5584999122284&text=Olá!)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964434580&text=Olá!)](https://api.whatsapp.com/send?phone=5511964434580&text=Olá!)
 
 #### Conhecimento nas linguagens:
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
