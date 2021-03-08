@@ -24,6 +24,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gutusmao12&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=gutusmao12&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
 **gutusmao12/gutusmao12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
