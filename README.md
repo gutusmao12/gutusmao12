@@ -22,7 +22,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PrimeNG](https://img.shields.io/badge/-PrimeNG-563D7C?style=flat-square&logo=primeNG)
+![PrimeNG](https://www.primefaces.org/wp-content/uploads/2021/06/primeng-release-12-1.jpg)](https://www.primefaces.org/primeng)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
